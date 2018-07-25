@@ -23,7 +23,7 @@ instrucciones(){
   echo "3. Cree una carpeta con el mismo nombre en la siguiente ruta: "
   echo "                  /mnt/virtualbox/Vbox-Share"
   pausa_instruccion
-  echo "4. Procesa a la ejecución de la opción montar."
+  echo "4. Proceda a la ejecución de la opción montar."
   sleep 2
 }
 
